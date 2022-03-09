@@ -66,3 +66,9 @@ function downloadFunc() {
     a.remove();
   });
 }
+
+/*Image Reproduction Fonts:
+* https://museudememes.com.br/collection/nazare-confusa
+* https://museudememes.com.br/collection/chloe-sincera
+* https://museudememes.com.br/collection/por-que-voce-nao-amadurece
+* https://museudememes.com.br/collection/nazare-confusa*/
