@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta ht tp - equiv="X -U A-Compatible" co ntent="IE=e dg e">
+    <meta name="viewport" content="wclassth=device-wclassth, initial-scale=1.0">
+    <title>Meme Generator</title>
+    <link rel="stylesheet" type='text/css' href="style.css">
+</head>
+
+<body>
+    <header>
+        <h1>Meme Generator!!</h1>
+    </header>
+    <main>
+        <section class="textConfigs">
+            <div class="textInputs">
+
+                <label>Upper Text:
+                    <input id="upperTextInput" type="text" maxlength="60">
+                </label>
+                <label>Bottom Text:
+                    <input id="bottomTextInput" type="text" maxlength="60">
+                </label>
+            </div>
+            <label>Photo:
+                <input id="memeInsert" type="file" title=" " />
+            </label>
+            <div class="textColorConfig">
+                <p>Text Color:</p>
+                <div class="black colorDiv"></div>
+                <div class="white colorDiv"></div>
+                <div class="red colorDiv"></div>
+                <div class="green colorDiv"></div>
+                <div class="blue colorDiv"></div>
+            </div>
+        </section>
+        <section class="memeImageContainer" id="printArea">
+            <h2 id="memeUpperText" class="blackText"></h2>
+            <img id='memeImage' src="/images/meme1.png" alt="Meme fabricado">
+            <h2 id="memeBottomText" class="blackText"></h2>
+        </section>
+        <input type="button" value="Save" id="printBtn" />
+
+        <section id="memesSection">
+            <div class="memes" id="meme1">
+                <img src="/images/meme1.png" alt="meme pré fabricado 1" class="memeImg">
+            </div>
+            <div class="memes" id="meme2">
+                <img src="/images/meme2.png" alt="meme pré fabricado 2" class="memeImg">
+            </div>
+            <div class="memes" id="meme3">
+                <img src="/images/meme3.png" alt="meme pré fabricado 3" class="memeImg">
+            </div>
+            <div class="memes" id="meme4">
+                <img src="/images/meme4.png" alt="meme pré fabricado 4" class="memeImg">
+            </div>
+        </section>
+    </main>
+</body>
+<script src="script.js"></script>
+<script src="./html2canvas.min.js"></script>
+
+</html>
