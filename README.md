@@ -27,8 +27,7 @@ This project was done while studying Fundamentals of Web Development in the Tryb
   * Semantic HTML
 
 ## How to use it
-  Just go to the page, select the meme image or upload it from your device, select the color of the text, type the top and bottom text and download it.
-  <br>
+  Just go to the page, select the meme image or upload it from your device, select the color of the text, type the top and bottom text and download it.<br>
   Disclaimer: 
   <br>
      The creator of this project shall not be liable for uploaded images; <br>
