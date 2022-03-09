@@ -32,11 +32,11 @@ This project was done while studying Fundamentals of Web Development in the Tryb
   Disclaimer: 
   <br>
      The creator of this project shall not be liable for uploaded images; <br>
-      All Images provided where reproduction from:
-        * https://museudememes.com.br/collection/nazare-confusa
-        * https://museudememes.com.br/collection/chloe-sincera
-        * https://museudememes.com.br/collection/por-que-voce-nao-amadurece
-        * https://museudememes.com.br/collection/nazare-confusa
+      All Images provided where reproduction from:<br>
+        * https://museudememes.com.br/collection/nazare-confusa<br>
+        * https://museudememes.com.br/collection/chloe-sincera<br>
+        * https://museudememes.com.br/collection/por-que-voce-nao-amadurece<br>
+        * https://museudememes.com.br/collection/nazare-confusa<br>
     
     
 ## Development Information
