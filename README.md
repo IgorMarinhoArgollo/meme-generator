@@ -7,7 +7,7 @@ This project was done while studying Fundamentals of Web Development in the Tryb
  * Download mechanism of the finished meme.
 
 ## Live Link
-<a href="https://memefyit.netlify.app">Pixel Art</a>
+<a target="_blank" href="https://memefyit.netlify.app">Pixel Art</a>
   
 ## Screenshot
 ![ScreenShot](./images/screenshot.png)
