@@ -4,6 +4,7 @@
   <summary><h2>:brazil: Português</h2></summary>
   Esse projeto foi desenvolvido enquanto estudava Fundamentos do Desenvolvimento Web no curso da Trybe. 
   <br>
+  
   Pontos a de Interesse:
   * Mecanismo de upload de imagem;
   * Preparação do Meme;
