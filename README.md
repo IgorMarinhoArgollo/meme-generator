@@ -2,13 +2,18 @@
   
   <details>
   <summary><h2>:brazil: Português</h2></summary>
- Esse projeto foi desenvolvido enquanto estudava Fundamentos do Desenvolvimento Web no curso da Trybe. 
+  Esse projeto foi desenvolvido enquanto estudava Fundamentos do Desenvolvimento Web no curso da Trybe. 
+  <br>
+  Pontos a de Interesse:
+  * Mecanismo de upload de imagem;
+  * Preparação do Meme;
+  * Mecanismo de download do meme pronto.
 
-## Live Link
-<a target="_blank" href="https://memefyit.netlify.app">Meme Generator</a>
+  ## Live Link
+  <a target="_blank" href="https://memefyit.netlify.app">Meme Generator</a>
   
   ## Screenshot
- ![ScreenShot](./images/screenshot.png)
+  ![ScreenShot](./images/screenshot.png)
   
   ## Objetivos
   * Criar um gerador de meme;
