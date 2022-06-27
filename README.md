@@ -44,7 +44,7 @@
   ### Clonar no seu computador (via SSH)
   No terminal:
   
-    git clone git@github.com:IgorMarinhoArgollo/pixel-art.git
+    git clone git@github.com:IgorMarinhoArgollo/meme-generator.git
   
 
   ### Iniciando o projeto localmente
@@ -67,6 +67,8 @@
   Tempo Gasto: 3 days; 
 
 </details>
+
+##  
 
 This project was done while studying Fundamentals of Web Development in the Trybe course, for educational purposes.<br>
 In this project, the goal is to create memes with preloaded or user-supplied images. There are three possibilities for inserting text: text at the top, at the bottom or both. Furthermore, the web application is responsive and offers the possibility of downloading the ready-made meme. 
@@ -107,7 +109,7 @@ In this project, the goal is to create memes with preloaded or user-supplied ima
   ### Cloning into your computer (via SSH)
   On terminal:
 
-      git clone git@github.com:IgorMarinhoArgollo/pixel-art.git
+      git clone git@github.com:IgorMarinhoArgollo/meme-generator.git
 
   ### Starting project locally
   On the directory that you have cloned the repository, paste the command on terminal to start the application:
