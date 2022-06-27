@@ -68,7 +68,7 @@
 
 </details>
 
-This project was done while studying Fundamentals of Web Development in the Trybe course.<br>
+This project was done while studying Fundamentals of Web Development in the Trybe course, for educational purposes.<br>
 In this project, the goal is to create memes with preloaded or user-supplied images. There are three possibilities for inserting text: text at the top, at the bottom or both. Furthermore, the web application is responsive and offers the possibility of downloading the ready-made meme. 
 <br>
  Interesting points:
