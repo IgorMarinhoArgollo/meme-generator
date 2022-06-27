@@ -2,13 +2,15 @@
   
   <details>
   <summary><h2>:brazil: Português</h2></summary>
-  Esse projeto foi desenvolvido enquanto estudava Fundamentos do Desenvolvimento Web no curso da Trybe. 
+  Esse projeto foi desenvolvido enquanto estudava Fundamentos do Desenvolvimento Web no curso da Trybe para fins educacionais. 
   <br>
+  Nesse projeto o objetivo é se criar memes com imagens pré carregadas ou fornecidas pelo usuário. Nele existem três possibilidades de inserção de texto: texto no topo, na base ou em ambos além disso, a aplicação web é responsiva e oferece a possibilidade de se fazer o download do meme pronto.
   
   Pontos a de Interesse:
   * Mecanismo de upload de imagem;
   * Preparação do Meme;
-  * Mecanismo de download do meme pronto.
+  * Mecanismo de download do meme pronto;
+  * Aplicação responsiva.
 
   ## Live Link
   <a target="_blank" href="https://memefyit.netlify.app">Meme Generator</a>
@@ -32,7 +34,25 @@
   
   
   ## Como usar
-  Acesse a página, selecione a imagem base do meme, ou faça o upload do seu aparelho, escolha a cor do texto, preencha os textos e faça o download do seu meme pronto.<br><br>
+  Acesse a página, selecione a imagem base do meme, ou faça o upload do seu aparelho, escolha a cor do texto, preencha os textos e faça o download do seu meme pronto.<br>
+    
+  ## Rodar Localmente
+  ### Requisitos:
+   * Node v16
+   * Google Chrome
+    
+  ### Clonar no seu computador (via SSH)
+  No terminal:
+  
+    git clone git@github.com:IgorMarinhoArgollo/pixel-art.git
+  
+
+  ### Iniciando o projeto localmente
+  No diretório em que o repositório foi clonado, cole o seguinte comando no terminal para iniciar a aplicação localmente:
+   
+      npm start
+   
+
   Disclaimer: 
   <br>
      O criador desse projeto não responsabiliza pelo uso da imagem; <br>
@@ -48,7 +68,8 @@
 
 </details>
 
-This project was done while studying Fundamentals of Web Development in the Trybe course. 
+This project was done while studying Fundamentals of Web Development in the Trybe course.<br>
+In this project, the goal is to create memes with preloaded or user-supplied images. There are three possibilities for inserting text: text at the top, at the bottom or both. Furthermore, the web application is responsive and offers the possibility of downloading the ready-made meme. 
 <br>
  Interesting points:
  * Upload image mechanism;
@@ -76,7 +97,23 @@ This project was done while studying Fundamentals of Web Development in the Tryb
   * Semantic HTML
 
 ## How to use it
-  Just go to the page, select the meme image or upload it from your device, select the color of the text, type the top and bottom text and download it.<br><br>
+  Just go to the page, select the meme image or upload it from your device, select the color of the text, type the top and bottom text and download it.<br>
+    
+## Run Locally
+  ### Requirements:
+   * Node v16
+   * Google Chrome
+    
+  ### Cloning into your computer (via SSH)
+  On terminal:
+
+      git clone git@github.com:IgorMarinhoArgollo/pixel-art.git
+
+  ### Starting project locally
+  On the directory that you have cloned the repository, paste the command on terminal to start the application:
+
+      npm start
+
   Disclaimer: 
   <br>
      The creator of this project shall not be liable for uploaded images; <br>
