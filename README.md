@@ -5,11 +5,9 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/igormarinhoargollo/meme-generator">
   
-  <a href="https://github.com/igormarinhoargollo/meme-generator/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/igormarinhoargollo/meme-generator">
-  </a>
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/igormarinhoargollo/meme-generator">
     
-   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
    
   
   <details>
