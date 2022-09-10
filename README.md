@@ -69,9 +69,6 @@
         * https://museudememes.com.br/collection/por-que-voce-nao-amadurece<br>
         * https://museudememes.com.br/collection/nazare-confusa<br><br>
 
-  ## Informações de Desenvolvimento
-  Commits de Desenvolvimento: 16; <br>
-  Tempo Gasto: 3 days; <br><br>
   ## Como contribuir no projeto
   1. Faça um **fork** do projeto;
   2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`;
@@ -148,11 +145,6 @@ In this project, the goal is to create memes with preloaded or user-supplied ima
         * https://museudememes.com.br/collection/chloe-sincera<br>
         * https://museudememes.com.br/collection/por-que-voce-nao-amadurece<br>
         * https://museudememes.com.br/collection/nazare-confusa<br><br>
-    
-    
-## Development Information
-  Development Commits: 16; <br>
-  Time Spent: 3 days; <br><br>
   
 ## How to contribute on the project
   1. Make a **fork** of the project;
